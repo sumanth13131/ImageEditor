@@ -1,0 +1,18 @@
+{
+    "BGR_to_map":{
+        "--Select--":-1,
+        "cv2.COLOR_BGR2RGB":4,
+        "cv2.COLOR_BGR2GRAY":6,
+        "cv2.COLOR_BGR2XYZ":32,
+        "cv2.COLOR_BGR2YCrCb":36,
+        "cv2.COLOR_BGR2HSV":40,
+        "cv2.COLOR_BGR2Lab":44,
+        "cv2.COLOR_BGR2Luv":50,
+        "cv2.COLOR_BGR2HLS":52,
+        "cv2.COLOR_BGR2HSV_FULL":66,
+        "cv2.COLOR_BGR2HLS_FULL":68,
+        "cv2.COLOR_BGR2YUV":82
+
+    }
+
+}
